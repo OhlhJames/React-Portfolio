@@ -2,13 +2,11 @@ import ReactDOM from 'react-dom/client';
 // Bringing in the required imports from 'react-router-dom' to set up application routing behavior
 import { createBrowserRouter, RouterProvider } from 'react-router-dom';
 
-import './index.css';
-
 // Bringing in the pages the router will use to conditionally show the appropriate views
 import App from './App';
 import ErrorPage from './pages/ErrorPage';
-import HomePage from './pages/HomePage';
-import ContactPage from './pages/ProfilePage';
+import HomePage from './pages/PortfolioPage';
+import ContactPage from './pages/ContactPage';
 import AboutPage from './pages/AboutPage';
 import ResumePage from './pages/ResumePage';
 
