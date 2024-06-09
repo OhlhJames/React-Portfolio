@@ -10,6 +10,8 @@ This is my personal portfolio powered by React! This project allows perspective 
 - [Usage](#usage)
 - [Credits](#credits)
 - [License](#license)
+- [Screenshot](#screenshot)
+- [Link](#link)
             
 # Installation
 
