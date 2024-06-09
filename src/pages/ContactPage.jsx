@@ -1,6 +1,6 @@
 export default function ContactPage () {
     return(
-        <div class = "container">
+        <div class = "column-container">
             <div>
                 <h1>Contact Me!</h1>
             </div>

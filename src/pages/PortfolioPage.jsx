@@ -3,20 +3,20 @@ export default function PortfolioPage() {
     const projectData = [
         {
             title: "Crop Club",
-            github: " ",
-            link: " ",
+            github: "https://github.com/OhlhJames/Crop-Club",
+            link: "https://cropclub-5cbdffda2ae5.herokuapp.com/",
             img: "../../public/images/corn.jpeg"
         },
         {
             title: "CorknFork",
-            github: " ",
+            github: "https://github.com/kleppy/corknfork",
             link: " ",
             img: "../../public/images/sharp-cheddar-baby-swiss-edited.jpg "
         },
         {
             title: "Honkai Calculator",
-            github: " ",
-            link: " ",
+            github: "https://github.com/OhlhJames/HSR-Calculator",
+            link: "https://ohlhjames.github.io/HSR-Calculator/",
             img: "../../public/images/calculations.jpg "
         },
     ]

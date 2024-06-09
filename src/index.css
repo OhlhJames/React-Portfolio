@@ -22,9 +22,12 @@ header {
 .navbar {
   display: flex;
 }
+.navbar a{
+  font-size: large;
+}
 
 a {
-  font-size: large; 
+  font-size: 30px; 
   font-weight: 500;
   color: var(--offWhite);
   margin: 5px;
@@ -45,6 +48,10 @@ body {
 h1 {
   font-size: 3.2em;
   line-height: 1.1;
+}
+
+h2{
+  text-align: center;
 }
 
 footer{
@@ -87,7 +94,7 @@ footer{
 }
 .about{
   display: flex;
-  width: 75%;
+  width: 65%;
   margin: 10px;
   padding: 5px;
   border-color: var(--darkGreen);
@@ -97,9 +104,9 @@ footer{
 }
 .piccard {
   display: flex;
-  width: 350px;
+  width: 400px;
   margin: 10px;
-  padding: 15px;
+  padding: 30px;
   border-color: var(--darkGreen);
   border-style: double;
   border-radius: 5px;
@@ -114,9 +121,11 @@ img{
   max-height: 300px;
   
 }
-footer img {
+.logo {
   height:50px;
   width:50px;
   padding-left: 50px;
-  
+}
+footer p {
+  background-color: none;
 }
