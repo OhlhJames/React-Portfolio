@@ -1,7 +1,7 @@
 export default function ContactPage () {
     return(
         <div class = "container">
-            <div class = "card">
+            <div>
                 <h1>Contact Me!</h1>
             </div>
             <div class = "card">

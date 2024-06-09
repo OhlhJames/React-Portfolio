@@ -1,6 +1,9 @@
 const Footer = () => {
     return (
-      <footer> Brought to you by James</footer>
+      <footer> 
+          <img href = "../public/images/github-logo.jpg"/>
+          <img href = "../../public/images/linkedin-logo.jpg"/>
+      </footer>
     );
   };
   
