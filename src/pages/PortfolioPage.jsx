@@ -11,7 +11,7 @@ export default function PortfolioPage() {
             title: "CorknFork",
             github: "https://github.com/kleppy/corknfork",
             link: " ",
-            img: "../../images/sharp-cheddar-baby-swiss-edited.jpg "
+            img: "../../images/cork-n-fork.png "
         },
         {
             title: "Honkai Calculator",
